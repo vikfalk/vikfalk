@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Viktor</h1>
 <h3 align="center">A climate/bio/tech product manager based in Berlin - learning to develop useful stuff from scratch 🌱</h3>
 
-With an academic background in plant science/agriculture, I wanted more of a direct impact and am enthralled by all the innovations in climate tech - so I have been working in agtech startups, climate-venture capital, and as a product lead at an AI-for-agriculture startup. Wanting to learn how to create my own products from the ground up, both for my own interest and to become a better product manager, I recently completed a Data Science & AI bootcamp. Now, I'm very excited to learn more and solve some challenges in the climate space 🌍 
+With an academic background in plant science/agriculture, I wanted more of a direct impact and am enthralled by all the innovations in climate tech - so I have been working in agtech startups, climate-venture capital, and as a product lead at an AI-for-agriculture startup. 
+
+Wanting to learn how to create my own products from the ground up, both for my own interest and to become a better product manager, I recently completed a Data Science & AI bootcamp. 
+
+**Now, I'm very excited to learn more and solve some challenges in the climate space 🌍 **
 
 - 🔭 I’m currently working on: [ForestVision](https://github.com/vikfalk/deforestation_frontend)
 
@@ -9,7 +13,7 @@ With an academic background in plant science/agriculture, I wanted more of a dir
 
 - 💬 Ask me about: **agriculture, climate, AI, remote sensing, biotech, foodtech, startups, and where the best hammock spots in Berlin are 🌳**
 
-- 📫 How to reach me: **Always happy for a chat in any shape or form - reach me at viktorfalkengren@gmail.com or on my LinkedIn**
+- 📫 How to reach me: **Always happy for a chat in any shape or form - reach me at [viktorfalkengren@gmail.com](viktorfalkengren@gmail.com) or on my [LinkedIn](https://www.linkedin.com/in/viktorfalkengren/)**
 
 - ⚡ Fun fact: **I was the fastest kid in my fourth grade class and have been riding that wave ever since 🏃**
 
