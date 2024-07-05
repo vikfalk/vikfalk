@@ -5,7 +5,7 @@ With an academic background in plant science/agriculture, I wanted more of a dir
 
 Wanting to learn how to create my own products from the ground up, both for my own interest and to become a better product manager, I recently completed a Data Science & AI bootcamp. 
 
-**Now, I'm very excited to learn more and solve some challenges in the climate space 🌍 **
+**Now, I'm very excited to learn more and solve some challenges in the climate space** 🌍 
 
 - 🔭 **I’m currently working on**: [ForestVision](https://github.com/vikfalk/deforestation_frontend)
 
