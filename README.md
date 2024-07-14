@@ -14,9 +14,7 @@ Wanting to learn how to create my own products from the ground up, both for my o
 - 💬 **Ask me about**: Agriculture, climate, AI, remote sensing, biotech, foodtech, startups, and where the best hammock spots in Berlin are 🌳
 
 - 📫 **How to reach me**: Always happy for a chat in any shape or form - reach me at [viktorfalkengren@gmail.com](mailto:viktorfalkengren@gmail.com) or on my [LinkedIn](https://www.linkedin.com/in/viktorfalkengren/).
-
-- ⚡ **Fun fact**: I was the fastest kid in my fourth grade class and have been riding that wave ever since 🏃
-- 
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/viktorfalkengren" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="viktorfalkengren" height="30" width="40" /></a>
