@@ -7,8 +7,6 @@ Wanting to learn how to create my own products from the ground up, both for my o
 
 **Now, I'm very excited to learn more and solve some challenges in the climate space** 🌍 
 
-- 🔭 **I’m currently working on**: [ForestVision](https://github.com/vikfalk/deforestation_frontend)
-
 - 🌱 **I’m currently learning**: More languages to allow me to create better products **-** focusing on ReactJS & Django currently. Also learning more on topics such as remote sensing, forestry, design thinking, and AI.
 
 - 💬 **Ask me about**: Agriculture, climate, AI, remote sensing, biotech, foodtech, startups, and where the best hammock spots in Berlin are 🌳
